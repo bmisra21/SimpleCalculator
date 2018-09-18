@@ -1,4 +1,5 @@
-
+//Bharavi Misra (bmisra21)
+//Subtract Calculator
 public class SubtractCalculator 
 {
 	public int sub (int num1, int num2) 
